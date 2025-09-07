@@ -84,8 +84,8 @@ const displayLevelWord = (words) => {
     if (words.length === 0) {
         wordContainer.innerHTML = `
         <div class="flex flex-col justify-center items-center font-hind-siliguri col-span-full h-[204px]">
-            <img class="mb-3.5" src="../assets/alert-error.png" alt="alert error">
-            <p class="text-[14px] third-color mb-5">এই Lesson এ এখনো কোন Vocabulary যুক্ত করা হয়নি।</p>
+            <img class="mb-3.5" src="./assets/alert-error.png" alt="alert error">
+            <p class="text-[14px] third-color mb-5">এই Lesson এ এখনো কোন Vocabulary যুক্ত করা হয়নি।</p
             <h2 class="text-[#292524] font-medium text-4xl">নেক্সট Lesson এ যান</h2>
         </div>
         `;
