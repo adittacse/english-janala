@@ -1,0 +1,34 @@
+* {
+    font-family: "Poppins", sans-serif;
+}
+
+.font-tiro-bangla {
+    font-family: "Tiro Bangla", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.font-hind-siliguri {
+    font-family: "Hind Siliguri", sans-serif;
+}
+
+.bg-header {
+    background-color: rgba(186, 222, 255, 0.26);
+}
+
+.primary-color {
+    color: #00BCFF;
+}
+
+.secondary-color {
+    color: #18181B;
+}
+
+.third-color {
+    color: #79716B;
+}
+
+.active {
+    color: white;
+    background-color: #422AD5;
+}
